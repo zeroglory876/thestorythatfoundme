@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Story That Found Me</title>
+  <style>
+    body {
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      background-color: #1e1e1e;
+      color: #d0cfcf;
+      margin: 0;
+      padding: 2rem;
+      max-width: 700px;
+      line-height: 1.7;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    h1 {
+      font-size: 2.5rem;
+      text-align: center;
+      margin-bottom: 1rem;
+      color: #e2e0e0;
+    }
+    .entry {
+      margin-bottom: 4rem;
+    }
+    .date {
+      font-size: 0.9rem;
+      color: #888;
+    }
+    .archive-link {
+      display: block;
+      text-align: center;
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #bbb;
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      margin-top: 5rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>The Story That Found Me</h1>
+
+  <div class="entry">
+  <div class="date">chapter 1 — posted june 22, 2025</div>
+  <p>
+    uniformity is stillness. it's the zero point. it's rest. but life... life is real, breathing, moving, thinking — life only emerges when the field is disturbed.
+  </p>
+  <p>
+    non uniformity is difference. and that difference is what makes everything possible. it had to happen. it was the ultimate plan all along. there never could be us without chaos.
+  </p>
+  <p>
+    separation. light from darkness. waters above from waters below. good from evil. it's what allowed creation to move. and in that motion, in that patterned non-uniformity, choice emerged. free will began.
+  </p>
+  <p>
+    free will is not chaos. it's divergent choices made in a coherent system... but within that freedom lies the capacity to turn away — to resist the One the story was always about. and when that happens, the resonance shifts. the pattern breaks.
+  </p>
+  <p>
+    you see, sin isn't just doing wrong. it's disrupting the coherence. it's introducing destructive interference... chaos — the wrong kind of divergence.
+  </p>
+  <p>
+    and yet the possibility of that existing was because the field was free to move in the first place. without that... there would be no fall.
+  </p>
+  <p>
+    there would be no redemption.
+  </p>
+  <p>
+    uniformity is equilibrium. non uniformity is life.
+  </p>
+</div>
+
+  <a href="#" class="archive-link">Chapters</a>
+
+  <footer>
+    &copy; 2025 The Story That Found Me — This is only the beginning.
+  </footer>
+</body>
+</html>
